@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Merhaba, ben Esma Nida Kalkan!
 
-<!--
-**esmanidakalkan/esmanidakalkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Gazi Üniversitesi TUSAŞ-Kazan Meslek Yüksekokulu
+Bilişim Güvenliği Teknolojisi öğrencisiyim.
 
-Here are some ideas to get you started:
+💻 Programlama, web geliştirme, Linux sistemleri ve siber güvenlik
+alanlarında kendimi geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Teknik Beceriler
+
+- **Programlama:** Python, Java
+- **Web Geliştirme:** HTML, CSS, JavaScript
+- **İşletim Sistemleri:** Linux, Kali Linux
+- **Ağ Teknolojileri:** Cisco Packet Tracer
+- **Sürüm Kontrolü:** Git, GitHub
+
+## 🚀 Projelerim
+
+### ✍️ Yazı Yazma ve Düzeltme Asistanı
+
+Python, Flask, SQLite ve Google Gemini API kullanılarak
+geliştirilen yapay zekâ destekli metin düzenleme uygulaması.
+
+🔗 [Projeyi GitHub'da İncele](https://github.com/esmanidakalkan/Yazi-yazma-ve-duzeltme-asistani-FINAL-PROJE)
+
+## 🎯 Hedeflerim
+
+- Siber güvenlik alanında teknik bilgi ve deneyim kazanmak.
+- Python ile güvenlik odaklı uygulamalar geliştirmek.
+- Ağ güvenliği ve Linux sistemleri konularında ilerlemek.
+- Yeni projeler geliştirerek teknik portföyümü güçlendirmek.
+
+## 📫 İletişim
+
+- **E-posta:** esmanidakalkan@gmail.com
+
+---
+
+⭐ Öğrenmeye, üretmeye ve kendimi geliştirmeye devam ediyorum.
